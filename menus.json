@@ -1,0 +1,146 @@
+{
+    "GlobalCafe": {
+        "GrilledCheese": {
+            "price": 2.50,
+            "orderLimit": 3,
+            "outOfStock": false
+        },
+        "SmallBakedGoods": {
+            "price": 1.00,
+            "orderLimit": 5,
+            "items": {
+                "cookie": {
+                    "outOfStock": false
+                }
+            }
+        },
+        "LargeBakedGoods": {
+            "price": 2.50,
+            "orderLimit": 3,
+            "items": {
+
+            }
+        },
+        "Drinks": {
+            "Gatorade": {
+                "price": 1.00,
+                "orderLimit": 3,
+                "outOfStock": false
+            },
+            "OrangeJuice": {
+                "price": 1.00,
+                "orderLimit": 3,
+                "outOfStock": false
+            },
+            "AppleJuice": {
+                "price": 1.00,
+                "orderLimit": 3,
+                "outOfStock": false
+            },
+            "Icetea": {
+                "price": 1.00,
+                "orderLimit": 3,
+                "outOfStock": false
+            }
+        }
+    },
+    "Cafe": {
+        "Monday": {
+
+        },
+        "Tuesday": {
+
+        },
+        "Wednesday": {
+
+        },
+        "Thursday": {
+
+        },
+        "Friday": {
+            "Poutine": {
+                "price": 3.50,
+                "orderLimit": 2,
+                "outOfStock": false
+            },
+            "Fries": {
+                "price": 2.50,
+                "orderLimit": 2,
+                "outOfStock": false
+            }
+        },
+        "Permanent": {
+            "Drinks": {
+                "Gatorade": {
+                    "price": 1.00,
+                    "orderLimit": 3,
+                    "outOfStock": false
+                },
+                "OrangeJuice": {
+                    "price": 1.00,
+                    "orderLimit": 3,
+                    "outOfStock": false
+                },
+                "AppleJuice": {
+                    "price": 1.00,
+                    "orderLimit": 3,
+                    "outOfStock": false
+                },
+                "Icetea": {
+                    "price": 1.00,
+                    "orderLimit": 3,
+                    "outOfStock": false
+                }
+            }
+        }
+    },
+    "Bakery": {
+        "Pizza": {
+            "price": 3.00,
+            "orderLimit": 3,
+            "outOfStock": false
+        },
+        "Chessbread": {
+            "price": 3.00,
+            "orderLimit": 3,
+            "outOfStock": false
+        },
+        "Cookie": {
+            "price": 1.00,
+            "orderLimit": 5,
+            "outOfStock": false
+        },
+        "LargeCookie": {
+            "price": 3.00,
+            "orderLimit": 5,
+            "outOfStock": false
+        },
+        "Parfait": {
+            "price": 1.00,
+            "orderLimit": 3,
+            "outOfStock": false
+        },
+        "Drinks": {
+            "Gatorade": {
+                "price": 1.00,
+                "orderLimit": 3,
+                "outOfStock": false
+            },
+            "OrangeJuice": {
+                "price": 1.00,
+                "orderLimit": 3,
+                "outOfStock": false
+            },
+            "AppleJuice": {
+                "price": 1.00,
+                "orderLimit": 3,
+                "outOfStock": false
+            },
+            "Icetea": {
+                "price": 1.00,
+                "orderLimit": 3,
+                "outOfStock": false
+            }
+        }
+    }
+}
