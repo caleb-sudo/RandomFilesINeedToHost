@@ -33,26 +33,26 @@
     },
     "GlobalCafe": {
         "GrilledCheese": {
-            "name": "Grilled Chesse",
+            "name": "Grilled_Cheese",
             "price": 2.50,
             "orderLimit": 3,
             "outOfStock": false,
             "multiOption": false
         },
         "SmallBakedGoods": {
-            "name": "Small Baked Goods",
+            "name": "Small_Baked_Goods",
             "price": 1.00,
             "orderLimit": 5,
             "multiOption": true,
             "options": {
                 "cookie": {
-                    "name": "cookie",
+                    "name": "Cookie",
                     "outOfStock": false
                 }
             }
         },
         "LargeBakedGoods": {
-            "name": "Large Baked Goods",
+            "name": "Large_Baked_Goods",
             "price": 2.50,
             "orderLimit": 3,
             "multiOption": true,
@@ -69,11 +69,11 @@
             "multiOption": true,
             "options": {
                 "cheese": {
-                    "name": "Cheese Pizza",
+                    "name": "Cheese_Pizza",
                     "outOfStock": false
                 },
                 "pepperoni": {
-                    "name": "Pepperoni Pizza",
+                    "name": "Pepperoni_Pizza",
                     "outOfStock": false
                 }
             }
@@ -93,7 +93,7 @@
             "multiOption": false
         },
         "LargeCookie": {
-            "name": "Large Cookie",
+            "name": "Large_Cookie",
             "price": 3.00,
             "orderLimit": 5,
             "outOfStock": false,
@@ -114,20 +114,20 @@
             "multiOption": true,
             "options": {
                 "blue": {
-                    "name": "Blue Gatorade",
+                    "name": "Blue_Gatorade",
                     "outOfStock": false
                 }
             }
         },
         "OrangeJuice": {
-            "name": "Orange Juice",
+            "name": "Orange_Juice",
             "price": 1.00,
             "orderLimit": 3,
             "outOfStock": false,
             "multiOption": false
         },
         "AppleJuice": {
-            "name": "Apple Juice",
+            "name": "Apple_Juice",
             "price": 1.00,
             "orderLimit": 3,
             "outOfStock": false,
